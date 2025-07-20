@@ -6,7 +6,7 @@ An end to end NLP project that analyzes over 750,000 customer reviews from an e-
 
 ![E-Commerce App Review Sentiment Preview](results/visualizations/dashboard_preview.png)
 
-**🔗 [View the Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your-link](https://public.tableau.com/views/e-CommerceAppReviewsSentimentTrendsWordInsights/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+**🔗 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/e-CommerceAppReviewsSentimentTrendsWordInsights/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
