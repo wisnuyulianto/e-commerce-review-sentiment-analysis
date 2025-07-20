@@ -1,3 +1,0 @@
-. filter=lfs diff=lfs merge=lfs -text
-data/SHOPEE_REVIEWS.csv filter=lfs diff=lfs merge=lfs -text
-results/sentiment_analysis_results.csv filter=lfs diff=lfs merge=lfs -text
